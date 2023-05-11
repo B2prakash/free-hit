@@ -1090,5 +1090,12 @@
     "image": "https://bit.ly/42GEqEq",
     "link": "https://animesuge.to/",
     "description": "A free source to watch all your favourite and latest anime."
-  }
+  },
+  {
+    productName: "Midjourney AI",
+    category: "ai",
+    image: "https://www.midjourney.com/showcase/top/",
+    link: "https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F",
+    description: "midjourney is a text to picture artifical intelligence ai service." 
+  },
 ]
